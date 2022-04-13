@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@svgr/webpack": "^6.2.1",
+    "babel-plugin-styled-components": "^2.0.7",
     "next": "12.1.5",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "styled-components": "^5.3.5"
   },
   "devDependencies": {
     "eslint": "8.13.0",
